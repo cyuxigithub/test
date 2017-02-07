@@ -102,5 +102,8 @@ git merge 分支名称
 git branch -d 分支名称
 
 
-分支合并冲突内容
+查看分支合并的情况，左侧是事件线
+git log --graph --pretty=oneline --abbrev-commit
+
+
 
