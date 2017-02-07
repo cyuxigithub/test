@@ -97,8 +97,11 @@ git branch
 
 冲突的分支内容
 
+合并指定的分支到当前分支
+git merge 分支名称
 
-
+删除分支
+git branch -d 分支名称
 
 
 	
