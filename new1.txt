@@ -4,12 +4,16 @@ git mkdir 名称
 初始化当前文件夹为git仓库
 git init
 	
-添加一个文件到仓库
+添加一个文件到提交的队列，可添加多个，之后用commit一次提交
 git add 文件
 
 提交当前文件夹
 git commit -m "提交说明"
 
 
+查看当前git仓库状态
+git status
 
+查看文件的修改
+git diff 文件名称
 
