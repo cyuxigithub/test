@@ -1,0 +1,32 @@
+
+分布式配置管理  
+	zk+web管理端+客户端
+	
+mybatis深入
+spring深入
+消息队列
+shiro
+lucence solr
+分布式服务
+
+
+
+
+linux 
+git svn搭建服务器和客户端
+vm 使用
+maven 及maven插件开发
+javadoc文档提取，反向生成，接口文档、测试代码生成
+
+加密解密
+证书登录
+oauth2.0
+微信、支付宝支付
+Word excel
+二维码生成解析，登录
+页面静态化
+微信开发，小程序开发
+
+springmvc 验证
+nodejs mongoDB
+httpclient
